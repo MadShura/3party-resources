@@ -1,1 +1,1 @@
-console.log(window.error);
+console.log(window.onerror );
